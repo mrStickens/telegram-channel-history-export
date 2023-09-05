@@ -4,7 +4,7 @@ from telegram import InputMediaPhoto
 import json
 import asyncio
 
-TOKEN = "5756745551:AAEUDIn5AnqGzmmxx068pGtzoYpukooyKY8"
+TOKEN = "put_your_bot_token_HERE"
 bot = Bot(token=TOKEN)
 
 
